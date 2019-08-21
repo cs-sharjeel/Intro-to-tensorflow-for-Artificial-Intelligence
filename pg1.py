@@ -12,5 +12,5 @@ y = np.array([-3, -1, 1, 3, 5, 7],dtype=float)
 model.fit(x, y, epochs=100000)
 
 # print(model.predict([10]))
-
+#@1234564658613585641641316
 print(model.predict([10]))
